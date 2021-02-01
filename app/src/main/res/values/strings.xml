@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Attestation COVID19</string>
+    <string name="attestation_view_title">Générateur d\'attestations</string>
+    <string name="attestation_generate_btn">Générer</string>
+    <string name="attestation_name">Prénom et nom</string>
+    <string name="attestation_address">Adresse</string>
+    <string name="attestation_birthdate">Date de naissance</string>
+    <string name="attestation_birth_place">Ville de naissance</string>
+    <string name="attestation_where">Fait à</string>
+    <string name="attestation_reason_1">Déplacements entre le domicile et le lieu d’exercice de l’activité professionnelle ou le lieu d’enseignement et de formation, déplacements professionnels ne pouvant être différés</string>
+    <string name="attestation_reason_2">Déplacements pour des consultations et soins ne pouvant être assurés à distance et ne   pouvant être différés ou pour l’achat de produits de santé </string>
+    <string name="attestation_reason_3">Déplacements pour motif familial impérieux, pour l’assistance aux personnes vulnérables ou précaires ou pour la garde d’enfants</string>
+    <string name="attestation_reason_4">Déplacements des personnes en situation de handicap et de leur accompagnant</string>
+    <string name="attestation_reason_5">Déplacements pour répondre à une convocation judiciaire ou administrative</string>
+    <string name="attestation_reason_6">Déplacements pour participer à des missions d’intérêt général sur demande de l’autorité administrative</string>
+    <string name="attestation_reason_7">Déplacements liés à des transits ferroviaires, aériens ou en bus pour des déplacements de longues distances</string>
+    <string name="attestation_reason_8">Déplacements brefs, dans un rayon maximal d’un kilomètre autour du domicile pour les besoins des animaux de compagnie</string>
+
+</resources>
